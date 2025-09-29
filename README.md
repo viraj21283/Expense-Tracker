@@ -1,6 +1,6 @@
 # Personal Expense Tracker
 A minimalist and visually elegant expense tracker designed for clarity and ease of use.
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/viraj21283/Expense-Tracker)
 Personal Expense Tracker is a visually stunning, minimalist expense tracker designed to make financial tracking an effortless and delightful experience. Built on Cloudflare's edge network, it offers a lightning-fast, single-page interface for adding, viewing, and analyzing expenses.
 ## Key Features
 - **Minimalist Dashboard**: A clean, at-a-glance summary of your financial activity.
@@ -71,6 +71,6 @@ This project is configured for seamless deployment to Cloudflare.
     bun run deploy
     ```
 Alternatively, you can deploy directly from your GitHub repository using the button below.
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/viraj21283/Expense-Tracker)
 ---
 Built with Love ❤️ by Viraj Shah
